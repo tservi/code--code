@@ -1,4 +1,5 @@
 <?php
+  /* this program is a mix done by t-servi.com */
 /***************************************************************************
  *
  *             Encode Explorer
